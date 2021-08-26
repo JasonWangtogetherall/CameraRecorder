@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="images">
+    <file>../utils/settings.png</file>
+    <file>../utils/minus.png</file>
+    <file>../utils/plus.png</file>
+    <file>../utils/record.png</file>
+    <file>../utils/up.png</file>
+    <file>../utils/left.png</file>
+    <file>../utils/bottom.png</file>
+    <file>../utils/right.png</file>
+  </qresource>
+</RCC>

@@ -31,5 +31,7 @@ Please navigate to the project directory and run the following command.
  
  ****My contact info:*****
     e-mail: wangxing630@outlook.com
+
     Skype: live:.cid.abd0c59810ba2c30
+    
     G-mail:sweetdreamtefre@gmail.com

@@ -1,6 +1,7 @@
 "# CameraRecoder" 
 # OverviewThis project is to control the PTZ functions of PTZOptics Camera with GUI using OpenCV. 
 The GUI has been developed using Pyside2.
+
 ## Structure
 - src    
 The main source code for camera controlling.    
@@ -17,13 +18,15 @@ Several settings including camera information
 
 ## Installation
 - Environment   
- Windows 10, Python 3.8   
- - Dependency Installation    
- Please navigate to the project directory and run the following command.   
- ```        pip install -r requirements.txt    
- ```## Execution
+  Windows 10, Python 3.8   
+ - Dependency Installation  
+   
+Please navigate to the project directory and run the following command.  
+ ``` pip install -r requirements.txt ```
+ 
+## Execution
  - Please run the following command in the terminal.   
- ```        python app.py    ```
+ ``` python app.py    ```
  - You can set camera information in settings file.
  
  ****My contact info:*****

@@ -1,5 +1,6 @@
 "# CameraRecoder" 
-# OverviewThis project is to control the PTZ functions of PTZOptics Camera with GUI using OpenCV. 
+# Overview
+This project is to control the PTZ functions of PTZOptics Camera with GUI using OpenCV. 
 The GUI has been developed using Pyside2.
 
 ## Structure
@@ -30,6 +31,7 @@ Please navigate to the project directory and run the following command.
  - You can set camera information in settings file.
  
  ****My contact info:*****
+ 
     e-mail: wangxing630@outlook.com
 
     Skype: live:.cid.abd0c59810ba2c30

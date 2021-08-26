@@ -1,0 +1,9 @@
+pyside2==5.15.2
+opencv-python==4.2.0.34
+requests==2.25.1
+qimage2ndarray==1.7
+numpy==1.19.5
+qt-material==2.8.8
+sensecam-control==0.1.0
+zeep==4.0.0
+onvif-zeep==0.2.12
